@@ -1,2 +1,3 @@
 # Testing_Project_01
-This Is Only For Pracitce.
+1st Change - This Is Only For Pracitce.
+2nd Change - This Is Only For Practice.
